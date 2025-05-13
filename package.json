@@ -1,0 +1,14 @@
+{
+  "name": "watermark-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jimp": "^0.16.1",
+    "sharp": "^0.33.1"
+  }
+}
